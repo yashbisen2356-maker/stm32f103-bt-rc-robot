@@ -15,6 +15,7 @@
 - `L` : Left
 - `R` : Right
 - `S` : Stop
+- As for creating the code i have written and understood the complete code but i have created it from scartch for the unknown part I have taken the Help of AI as teacher to do Learn things and REAL Time implemented on my project.
 
 // i wanted to build my own car from childhood i  have finally built as to be come embedded iot firmaware and edge Ai integration engineer . I built this RC Robot and used multiple modules and connected and coded stm 32 board properly to get the result . I have some issues after assembling everything when it did't worked but after fixiing some inter setting for my stm32 board it workign fine .
 to see read its detailed description of working and parts see my linkding www.linkedin.com/in/yashbisen
